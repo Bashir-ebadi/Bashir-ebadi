@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bashir-ebadi
 - 👀 I’m interested in Xcode 
-- 🌱 I’m currently learning ... advanced hacking 
+- 🌱 I’m currently learning advanced hack
   
 
 
